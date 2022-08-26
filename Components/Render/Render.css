@@ -1,0 +1,44 @@
+.Render{
+    width: 50%;
+    padding: 15px;
+}
+
+.card{
+    border: 2px solid #c777b9;
+    border-radius: 5px;
+    height:360px;
+    padding: 5px;
+}
+
+.card-header{
+    width: 200px;
+}
+
+.card-image{
+    width: 100%;
+    object-fit:cover;
+    height: 250px;   
+    display: block;
+}
+
+.card-body{
+    padding: 0.7rem;
+}
+
+.card-body p{
+    margin-bottom: 5px;
+}
+
+.name{
+    color: #845EC2;
+    font-size: large;
+}
+
+.price{
+    color: #008F7A;
+    font-size: medium;
+}
+
+.category{
+    color: #FF9671;
+}
